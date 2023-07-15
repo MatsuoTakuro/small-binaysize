@@ -1,3 +1,3 @@
-module github.com/MatsuoTakuro/small-binaysize
+module github.com/MatsuoTakuro/small-binarysize
 
 go 1.18
